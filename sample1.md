@@ -2,4 +2,4 @@
 
 ## Sample
 
-1.(ono) (小野)
+1.(ono) (小野) :fish:
